@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2D3DwUuapasOpimgjKc8L4B7CJaIFdsSWuw&usqp=CAU");
+}
+
+#frontpage-title{
+    color: white;
+    border: solid 3px white;
+    padding: 10px;
+}
+
+.colored-link{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 3px white;
+    padding: 10px;
+}
+
+.colored-link-h3{
+    width: 300px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 3px white;
+    padding: 10px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.table-container {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}

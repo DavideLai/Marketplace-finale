@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.colored-link{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 3px white;
+    padding: 10px;
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2D3DwUuapasOpimgjKc8L4B7CJaIFdsSWuw&usqp=CAU");
+}
